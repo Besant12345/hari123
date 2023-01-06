@@ -15,3 +15,6 @@ adding line1
 adding line2
 AWS Cloud 
 Azure CLoud
+Google CLoud 
+DO Cloud
+
